@@ -1,0 +1,9 @@
+-----TI-REX started at Mon Sep 10 2018 15:37:32 GMT-0400 (Eastern Daylight Time)
+Mon, 10 Sep 2018 19:37:41 GMT connect deprecated methodOverride: use method-override npm module instead at app.js:628:21
+4",
+        "mac": "0a:00:27:00:00:0f",
+        "internal": false
+    }
+]
+-----TI-REX started at Mon Sep 10 2018 15:37:32 GMT-0400 (Eastern Daylight Time)
+TIREX server listening on port 55432

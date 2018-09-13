@@ -1,0 +1,1 @@
+"./fletcher16.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "../msp432p401r.cmd" "../BoardSupportPackage/DriverLib/msp432p4xx_driverlib.lib" -llibc.a 
